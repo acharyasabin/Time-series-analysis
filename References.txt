@@ -1,0 +1,4 @@
+1. https://github.com/advaitsave/Introduction-to-Time-Series-forecasting-Python/blob/master/Time%20Series%20in%20Python.ipynb
+
+2.https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b#:~:text=Time%20series%20forecasting%20is%20the,retail%20sales%20in%20this%20post.
+
